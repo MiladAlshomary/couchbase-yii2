@@ -9,13 +9,13 @@ The preferred way to install this extension is through [composer](http://getcomp
 Either run
 
 ```
-php composer.phar require --prefer-dist couchbase/yii2-couchbase "*"
+php composer.phar require --prefer-dist "miladalsh/couchbase-yii2": "dev-master"
 ```
 
 or add
 
 ```
-"couchbase/yii2-couchbase": "*"
+"miladalsh/couchbase-yii2": "dev-master"
 ```
 
 to the require section of your `composer.json` file.
