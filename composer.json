@@ -1,5 +1,5 @@
 {
-    "name": "MiladAlshomary/couchbase-yii2",
+    "name": "miladalsh/couchbase-yii2",
     "description": "This extension provides the Coucbase SDK integration for the Yii2 framework",
     "type": "yii2-extension",
     "minimum-stability": "stable",
