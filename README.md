@@ -36,8 +36,6 @@ Configure in application config like the following:
   			'connectionString' => 'couchbase://127.0.0.1',
   			'username' => 'Administrator',
   			'password' => '',
-  			'bucketName' => 'default',
-  			'bucketPassword' => ''
   		)
 </pre>
 
