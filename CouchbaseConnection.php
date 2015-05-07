@@ -37,6 +37,11 @@ class CouchbaseConnection extends Component
     private $_cluster;
 
 
+    public function init() {
+        parent::init();
+        $this->open();
+    }
+
     /**
     * @var array of opened buckets to couchbase server
     **/
